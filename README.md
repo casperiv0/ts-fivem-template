@@ -1,5 +1,7 @@
 # ts-fivem-template
 
+Quickly create a fivem resource in TypeScript, includes CitizenFX types, ESLint and Prettier
+
 ## Development
 
 ### Install the dependencies
