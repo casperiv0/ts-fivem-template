@@ -22,4 +22,4 @@ await esbuild.build({
 const fxmanifest = path.resolve(integrationPath, "fxmanifest.lua");
 const manifest = await fs.readFile(fxmanifest);
 
-fs.writeFile(path.resolve(distDir, "fxmanifest.lua"), manifest);
+fs.writeFile(path.resolve("fxmanifest.lua"), manifest);
