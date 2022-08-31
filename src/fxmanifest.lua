@@ -5,5 +5,5 @@ author "Dev-CasperTheGhost"
 description "TODO"
 version "0.0.0"
 
-server_scripts {"server/server.js"}
-client_scripts {"client/client.js"}
+server_scripts {"dist/server/server.js"}
+client_scripts {"dist/client/client.js"}
